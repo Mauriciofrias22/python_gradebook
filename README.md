@@ -1,2 +1,2 @@
 # python_gradebook
-this program organizes the subjects and grades of a student into lists. 
+This program organizes the subjects and grades of a student from last semester and this semester into lists and the it shows them.
